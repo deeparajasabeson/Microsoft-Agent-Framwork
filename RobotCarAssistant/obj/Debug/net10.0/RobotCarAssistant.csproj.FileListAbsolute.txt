@@ -46,3 +46,4 @@ C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\RobotCarAssist
 C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\RobotCarAssistant\obj\Debug\net10.0\RobotCarAssistant.pdb
 C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\RobotCarAssistant\obj\Debug\net10.0\RobotCarAssistant.genruntimeconfig.cache
 C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\RobotCarAssistant\obj\Debug\net10.0\ref\RobotCarAssistant.dll
+C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\RobotCarAssistant\obj\Debug\net10.0\RobotCarAssistant.sourcelink.json

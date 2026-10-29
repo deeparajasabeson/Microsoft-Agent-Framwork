@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FirstAgentWithTools")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da1546af70a2b8401820886ae151020f16e1a8d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("FirstAgentWithTools")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FirstAgentWithTools")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

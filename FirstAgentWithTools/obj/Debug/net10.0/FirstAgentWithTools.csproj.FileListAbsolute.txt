@@ -46,3 +46,4 @@ C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\FirstAgentWith
 C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\FirstAgentWithTools\obj\Debug\net10.0\FirstAgentWithTools.pdb
 C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\FirstAgentWithTools\obj\Debug\net10.0\FirstAgentWithTools.genruntimeconfig.cache
 C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\FirstAgentWithTools\obj\Debug\net10.0\ref\FirstAgentWithTools.dll
+C:\Deepa\Learning\AI-ML\My Books\Microsoft Agentic Framework\Code\firstagentwithtools\obj\Debug\net10.0\FirstAgentWithTools.sourcelink.json
